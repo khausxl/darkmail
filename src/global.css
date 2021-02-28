@@ -1,0 +1,9 @@
+body{
+  width: 100%;
+  background: #edf2f7;
+  min-height: 100vh;
+}
+
+.flex-5{
+  flex: 5
+}
